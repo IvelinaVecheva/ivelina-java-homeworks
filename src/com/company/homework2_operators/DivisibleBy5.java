@@ -1,4 +1,4 @@
-package com.company.homework2;
+package com.company.homework2_operators;
 
 public class DivisibleBy5 {
     public static void main(String[] args) {

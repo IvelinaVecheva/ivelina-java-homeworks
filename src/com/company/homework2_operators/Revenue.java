@@ -1,4 +1,4 @@
-package com.company.homework2;
+package com.company.homework2_operators;
 
 import java.util.Scanner;
 

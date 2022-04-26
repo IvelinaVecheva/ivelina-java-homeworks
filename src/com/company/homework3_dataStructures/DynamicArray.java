@@ -1,4 +1,4 @@
-package com.company.homework3;
+package com.company.homework3_dataStructures;
 
 import java.util.Scanner;
 

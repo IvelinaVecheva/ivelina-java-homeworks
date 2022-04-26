@@ -1,4 +1,4 @@
-package com.company.homework2;
+package com.company.homework2_operators;
 
 public class LargestNumber {
     public static void main(String[] args) {

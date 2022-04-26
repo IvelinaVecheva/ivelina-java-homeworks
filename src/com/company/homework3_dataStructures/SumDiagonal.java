@@ -1,4 +1,4 @@
-package com.company.homework3;
+package com.company.homework3_dataStructures;
 
 public class SumDiagonal {
     public static void main(String args[]){
